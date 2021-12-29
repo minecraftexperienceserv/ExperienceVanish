@@ -1,0 +1,7 @@
+name: ExperienceVanish
+version: '${project.version}'
+main: it.minecraftexperience.experiencevanish.Main
+api-version: 1.17
+authors: [ tommasobenatti, IllegalNatrium ]
+description: A Vanish plugin for Kingdoms | Minecraft Experience
+website: www.mcexp.it
